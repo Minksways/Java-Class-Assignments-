@@ -13,3 +13,6 @@ Once done you are in; note to keep text files patron patronTester handy for test
 error handling and do not save via exit 6 cmd till have read all inputs.
 The text-based CLI Dashboard will execute immediately as an independent system console program frame, 
 completely standalone with the help of CMD on any device.
+
+
+Will update formating of README file later.
