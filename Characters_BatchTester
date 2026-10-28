@@ -1,0 +1,8 @@
+2,true,Winter Havens,true,The oldest sibling remaining.
+4,false,Thornes Havens,false,A wandering merchant npc who died and was not important.
+1,true,King's Havens,true,Jacklyn The current ruling monarch alive and very important.
+3,True,testing ,false, Sulock A standard watch guard who is alive, but cannot be added via extra commas.
+1.1, True, testing, true, Increments that exist get auto incremented to next available through batch.
+5, true, testing, ,testing empty should not be added
+6
+
